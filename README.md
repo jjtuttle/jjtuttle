@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## Let's connect
-(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link)<br />
+<sub><sup>(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link)</sup></sub><br />
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
