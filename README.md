@@ -1,5 +1,5 @@
 ## My Github at a Glance
-<a href="https://github.com/jjtuttle/jjtuttle"
+<a href="https://github-readme-stats.vercel.app/api?username=jjtuttle&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats%22/%3E"
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats%22/%3E
 </a>
 
