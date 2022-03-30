@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## Let's connect
-<a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
+[go]<a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">{:target="_blank"}
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
