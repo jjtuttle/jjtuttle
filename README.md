@@ -1,12 +1,11 @@
-Hi there, I'm James J. Tuttle
-
 ## My Github at a Glance
-<a href="https://github.com/jjtuttle/"
+<a href="https://github.com/jjtuttle/jjtuttle"
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats%22/%3E
 </a>
-<!-- <a href="https://github.com/laterblackbird/laterblackbird%22%3E
+
+ <a href="https://github.com/jjtuttle/jjtuttle
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training%22/%3E
-</a> -->
+</a> 
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
