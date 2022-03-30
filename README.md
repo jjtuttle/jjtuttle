@@ -1,11 +1,7 @@
 ## My Github at a Glance
-<a href="https://github-readme-stats.vercel.app/api?username=jjtuttle&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats%22/%3E"
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20Stats%22/%3E
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
- <a href="https://github.com/jjtuttle/jjtuttle
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training%22/%3E
-</a> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## Let's connect
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
