@@ -7,7 +7,7 @@
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&count_private=true&langs_count=6&hide=shell,ruby&theme=vue-dark&layout=compact&custom_title=Favorite%20Languages&exclude_repo=curriculum,github-slideshow,unified-setup,git-training%22/%3E
 </a> 
 
-### Let's connect
+## Let's connect
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
 
-### Technologies
+## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
