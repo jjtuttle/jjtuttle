@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://angel.co/u/james-tuttle-3/" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white"/>
 </a> 
