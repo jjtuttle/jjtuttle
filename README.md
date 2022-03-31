@@ -28,6 +28,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-## WakaTime
+<!--## WakaTime-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
