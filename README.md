@@ -5,7 +5,7 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jjtuttle) -->
 
-[![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats)
+[![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=james.j.tuttle@gmail.com)](https://github.com/jjtuttle/github-readme-stats)
 
 ## Let's connect
 <sub><sup>**(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link - to open in a new tab)**</sup></sub><br />
