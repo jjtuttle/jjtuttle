@@ -1,6 +1,6 @@
 ## My Github at a Glance
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=radical)
+![Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=radical)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jjtuttle) -->
 <!-- [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats) -->
