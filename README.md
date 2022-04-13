@@ -7,7 +7,7 @@ Alumni of [App Acedamy](https://www.appacademy.io/) and enjoy all the oppertunut
 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle) -->
 
-[![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats)
+<!-- [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats) -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=jjtuttle)
 
