@@ -3,7 +3,7 @@
 
 ![Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=merko)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jjtuttle) -->
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={jjtuttle}&theme=vue)
 
 [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats)
 
