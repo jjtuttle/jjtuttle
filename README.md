@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white"/>
 </a> 
 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
