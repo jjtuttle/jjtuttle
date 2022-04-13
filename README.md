@@ -3,7 +3,7 @@
 
 ![Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=merko)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle)
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle) -->
 
 [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats)
 
