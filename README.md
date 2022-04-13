@@ -1,8 +1,9 @@
 ## My Github at a Glance
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=radical)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=jjtuttle) -->
-[![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats)
+<!-- [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats) -->
 
 ## Let's connect
 <sub><sup>**(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link - to open in a new tab)**</sup></sub><br />
