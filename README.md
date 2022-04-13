@@ -7,6 +7,8 @@
 
 <!-- [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats) -->
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=jjtuttle)
+
 ## Let's connect
 <sub><sup>**(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link - to open in a new tab)**</sup></sub><br />
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
