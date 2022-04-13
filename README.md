@@ -17,7 +17,7 @@
 <a href="https://angel.co/u/james-tuttle-3/" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white"/>
 </a> 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+[![Portfolio - website](https://img.shields.io/badge/Portfolio-website-2ea44f?style=for-the-badge&logo=hubspot)](https://www.jamestuttle.dev)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
