@@ -1,5 +1,5 @@
 ## My Github at a Glance
-Recent grad from App Acedamy and enjoy all the oppertunuties of being a fullstack software developer!
+Alumni of [App Acedamy](https://www.appacademy.io/) and enjoy all the oppertunuties of being a fullstack software developer!
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
