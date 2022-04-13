@@ -11,13 +11,14 @@
 
 ## Let's connect
 <sub><sup>**(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link - to open in a new tab)**</sup></sub><br />
+[![Portfolio - website](https://img.shields.io/badge/Portfolio-website-2ea44f?style=for-the-badge&logo=hubspot)](https://www.jamestuttle.dev)
 <a href="https://www.linkedin.com/in/jamesjtuttle/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://angel.co/u/james-tuttle-3/" target="_blank">
   <img src="https://img.shields.io/badge/Angel_List-9933CC?style=for-the-badge&logo=AngelList&logoColor=white"/>
 </a> 
-[![Portfolio - website](https://img.shields.io/badge/Portfolio-website-2ea44f?style=for-the-badge&logo=hubspot)](https://www.jamestuttle.dev)
+
 
 
 ## Languages & Technologies
