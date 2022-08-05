@@ -1,6 +1,8 @@
 ## My Github at a Glance
 Alumni of [App Acedamy](https://www.appacademy.io/) and enjoy all the oppertunuties of being a fullstack software developer!
 
+https://camo.githubusercontent.com/345dde4a38e1ee9e06b750d207c7b8d042d91c0109fe66ec15b539f3e7f40776/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64746169767070
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 ![Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=merko)
