@@ -7,13 +7,13 @@ Alumni of [App Acedamy](https://www.appacademy.io/) and enjoy all the oppertunut
 
 ![Tuttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjtuttle&show_icons=true&theme=merko)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&langs_count=8)](https://github.com/jjtuttle/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&langs_count=10)](https://github.com/jjtuttle/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle&layout=compact)](https://github.com/jjtuttle/github-readme-stats) -->
 
 
 
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle)
+<!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjtuttle) -->
 
 <!-- [![Tuttle's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjtuttle)](https://github.com/jjtuttle/github-readme-stats) -->
 
